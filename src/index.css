@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+html{
+  background-color: hsla(175, 65%, 67%, 0.374); 
+  color:white;
+  font-weight: 600;
+}
